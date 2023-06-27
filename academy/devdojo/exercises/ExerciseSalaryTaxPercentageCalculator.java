@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 public class ExerciseSalaryTaxPercentageCalculator {
     public static void main(String[] args) {
         float salary = 4900.0F;

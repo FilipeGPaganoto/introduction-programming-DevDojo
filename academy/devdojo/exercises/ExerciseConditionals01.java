@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 public class ExerciseConditionals01 {
     public static void main(String[] args) {
         double salary = 11000;

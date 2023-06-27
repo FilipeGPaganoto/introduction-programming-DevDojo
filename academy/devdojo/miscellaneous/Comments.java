@@ -1,3 +1,5 @@
+package academy.devdojo.miscellaneous;
+
 /*
  This is a comment
  did you understand?

@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 public class ExerciseConditionals03 {
     public static void main(String[] args) {
         int age = -1;

@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 public class ExerciseAgeDifference {
     public static void main(String[] args) {
         int firstAge = 40, secondAge = 10;

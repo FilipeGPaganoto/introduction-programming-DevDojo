@@ -1,3 +1,5 @@
+package academy.devdojo.exercises;
+
 public class ExerciseConditionals02 {
     public static void main(String[] args) {
         int number = 1251;
